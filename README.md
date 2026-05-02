@@ -318,8 +318,5 @@ B.Tech / M.Tech — [Your College]
 
 **Built for real-world impact — Indian Railways · Smart Cities · Public Safety**
 
-⭐ Star this repo if it helped you!
-
-</div>
-#   R a i l w a y - P l a t f o r m - S u i c i d e - T r e s p a s s - A t t e m p t - D e t e c t i o n  
+</div>#   R a i l w a y - P l a t f o r m - S u i c i d e - T r e s p a s s - A t t e m p t - D e t e c t i o n  
  
