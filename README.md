@@ -157,7 +157,7 @@ Dataset Split:
 
 ### Run in Google Colab
 
-1. Upload `Railway_Safety_Detection.ipynb` to [colab.research.google.com](https://colab.research.google.com)
+1. Upload `Railway_Platform_Suicide_And_Trespass_Attempt_Detection.ipynb` to [colab.research.google.com](https://colab.research.google.com)
 2. Go to Runtime > Change runtime type > T4 GPU > Save
 3. Run all cells with Runtime > Run all or Ctrl+F9
 
@@ -166,8 +166,8 @@ All dependencies install automatically in Section 1.
 ### Local Setup
 
 ```bash
-git clone https://github.com/yourusername/railway-safety-detection
-cd railway-safety-detection
+git clone https://github.com/mm-972927/Railway-Platform-Suicide-Trespass-Attempt-Detection.git
+cd Railway-Platform-Suicide-Trespass-Attempt-Detection
 
 python -m venv venv
 source venv/bin/activate
@@ -183,7 +183,7 @@ pip install ultralytics opencv-python gradio scikit-learn matplotlib seaborn
 ```
 railway-safety-detection/
 |
-|-- Railway_Safety_Detection.ipynb
+|-- Railway_Platform_Suicide_And_Trespass_Attempt_Detection.ipynb
 |-- README.md
 |
 |-- models/
@@ -276,14 +276,6 @@ This system is designed to assist trained railway safety personnel — not repla
 3. Ultralytics YOLOv8, 2023
 4. MediaPipe Pose — Google Research, 2020
 5. Indian Railways AI-CCTV Deployment — Ministry of Railways, 2024
-
----
-
-## Author
-
-**Your Name**
-B.Tech / M.Tech — Your College
-your.email@example.com
 
 ---
 
